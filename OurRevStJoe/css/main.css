@@ -6375,30 +6375,7 @@ h1,h2,h3,h4 {
 		-ms-flex:1;
 		flex:1
 	}
-}
-.quick-donate .btn-amount,.quick-donate input {
-	width:12%;
-	margin-right:1%;
-	text-align:center;
-	height:40px
-}
-.quick-donate .btn-amount {
-	padding:9px 12px
-}
-.quick-donate .btn-continue {
-	height:40px;
-	border-radius:40px;
-	width:30%
-}
-@media (max-width:600px) {
-	.quick-donate .btn-amount,.quick-donate input {
-		width:17%
-	}
-	.quick-donate .btn-continue {
-		display:block;
-		width:50%;
-		margin:10px auto auto
-	}
+
 }
 .goals,.mission {
 	margin-top:40px
@@ -9705,4 +9682,12 @@ div.recurrence-widget .panel {
 	margin-top:0;
 	margin-bottom:0;
 	font-size:12px
+}
+
+.bernie-blue {
+		color: #53A2F2
+}
+
+.rev-red {
+		color: #F23D3D
 }
