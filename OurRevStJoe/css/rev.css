@@ -6949,10 +6949,15 @@ button.close {
 	font-weight:700
 }
 
-.navbar__mobile,.navbar__social {
-	-webkit-box-flex:1;
-	-webkit-flex:auto;
-	-ms-flex:auto;
-	flex:auto
+
 	
+.navbar-nav .open .dropdown-menu {
+		position:static;
+		float:none;
+		width:auto;
+		margin-top:0;
+		background-color:transparent;
+		border:0;
+		box-shadow:none
+}
 /*# sourceMappingURL=bootstrap.css.map */
