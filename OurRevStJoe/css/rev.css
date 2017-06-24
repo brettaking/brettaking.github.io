@@ -6947,6 +6947,12 @@ button.close {
 	line-height:12px;
 	letter-spacing:2px;
 	font-weight:700
-	
+}
+
+.navbar__mobile,.navbar__social {
+	-webkit-box-flex:1;
+	-webkit-flex:auto;
+	-ms-flex:auto;
+	flex:auto
 	
 /*# sourceMappingURL=bootstrap.css.map */
