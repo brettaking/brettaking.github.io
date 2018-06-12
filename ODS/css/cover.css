@@ -92,6 +92,7 @@ body {
 .cover {
   padding: 0 1.5rem;
   margin-bottom: 100px;
+  background-image : url("../background.jpg");
 }
 .cover .btn-lg {
   padding: .75rem 1.25rem;
