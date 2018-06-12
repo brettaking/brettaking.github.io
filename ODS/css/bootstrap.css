@@ -66,8 +66,8 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  #background-color: #fff
-  baground-image: url("../background.jpg");
+  #background-color: #fff;
+  background-image: url("../background.jpg");
 }
 
 [tabindex="-1"]:focus {
