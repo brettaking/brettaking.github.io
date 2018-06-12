@@ -67,7 +67,7 @@ body {
   color: #212529;
   text-align: left;
   #background-color: #fff;
-  background-image: url("../background.jpg");
+  #background-image: url("../background.jpg");
 }
 
 [tabindex="-1"]:focus {
@@ -3880,7 +3880,7 @@ input[type="button"].btn-block {
 
 .nav-tabs .nav-link.active,
 .nav-tabs .nav-item.show .nav-link {
-  color: #495057;
+  color: #000000;
   background-color: #fff;
   border-color: #dee2e6 #dee2e6 #fff;
 }
@@ -7689,6 +7689,7 @@ button.bg-dark:focus {
 .mb-auto,
 .my-auto {
   margin-bottom: auto !important;
+  background-color: #ffffff;
 }
 
 .ml-auto,
