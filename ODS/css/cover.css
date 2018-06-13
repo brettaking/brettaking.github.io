@@ -101,12 +101,11 @@ body {
 }
 
 .photo {
-    height : 100px;
-    width : 90%
+    height : 300px;
     display: -ms-flexbox;
     text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
     background-image: url(../voters_not_donors.jpg);
-    background-size : auto
+    background-size : 300px 175px; 
 }
         
 
