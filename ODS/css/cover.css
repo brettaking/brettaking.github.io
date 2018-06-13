@@ -101,7 +101,11 @@ body {
 }
 
 .photo {
-      background-image: url(../voters_not_donors.jpg);
+    display: -ms-flexbox;
+    display: flex;
+    color: #000;
+    text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
+    background-image: url(../voters_not_donors.jpg);
 }
         
 
