@@ -74,7 +74,7 @@ body {
 
 .nav-masthead .active {
   color: #53a2f2;
-  border-bottom-color: #fff;
+  border-bottom-color: #f23d3d;
 }
 
 @media (min-width: 48em) {
