@@ -106,6 +106,7 @@ body {
     text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
     background-image: url(../voters_not_donors.jpg);
     background-size : 300px 175px; 
+    background-repeat : no repeat;
 }
         
 
