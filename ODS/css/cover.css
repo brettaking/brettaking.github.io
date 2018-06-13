@@ -101,9 +101,9 @@ body {
 }
 
 .photo {
+    height : 100px;
+    width : 90%
     display: -ms-flexbox;
-    display: flex;
-    color: #000;
     text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
     background-image: url(../voters_not_donors.jpg);
 }
