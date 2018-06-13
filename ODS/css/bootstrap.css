@@ -397,6 +397,10 @@ h6, .h6 {
   font-weight: 300;
   margin: 20px;
 }
+.lead a {
+  padding: 20px;
+  margin: 20px;
+}
 
 .display-1 {
   font-size: 6rem;
