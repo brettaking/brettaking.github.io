@@ -3973,12 +3973,8 @@ input[type="button"].btn-block {
 }
 
 .navbar-nav .nav-link {
-  padding: .25rem 0;
-  font-weight: 700;
-  color: #f23d3d;
-  background-color: transparent;
-  border-bottom: .25rem solid transparent;
-}
+  padding: 0;
+ 
 
 .navbar-nav .dropdown-menu {
   position: static;
@@ -4248,7 +4244,11 @@ input[type="button"].btn-block {
 }
 
 .navbar-light .navbar-nav .nav-link {
-  color: rgba(0, 0, 0, 0.5);
+  padding: .25rem 0;
+  font-weight: 700;
+  color: #f23d3d;
+  background-color: transparent;
+  border-bottom: .25rem solid transparent;;
 }
 
 .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {
@@ -4263,7 +4263,8 @@ input[type="button"].btn-block {
 .navbar-light .navbar-nav .active > .nav-link,
 .navbar-light .navbar-nav .nav-link.show,
 .navbar-light .navbar-nav .nav-link.active {
-  color: rgba(0, 0, 0, 0.9);
+  color: #53a2f2;
+  border-bottom-color: #f23d3d;;
 }
 
 .navbar-light .navbar-toggler {
