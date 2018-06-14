@@ -3973,8 +3973,11 @@ input[type="button"].btn-block {
 }
 
 .navbar-nav .nav-link {
-  padding-right: 0;
-  padding-left: 0;
+  padding: .25rem 0;
+  font-weight: 700;
+  color: #f23d3d;
+  background-color: transparent;
+  border-bottom: .25rem solid transparent;
 }
 
 .navbar-nav .dropdown-menu {
