@@ -4248,7 +4248,7 @@ input[type="button"].btn-block {
   font-weight: 700;
   color: #f23d3d;
   background-color: transparent;
-  border-bottom: .25rem solid transparent;;
+  border-bottom: .25rem solid transparent;
 }
 
 .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {
