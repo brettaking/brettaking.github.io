@@ -66,8 +66,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  #background-color: #fff;
-  #background-image: url("../background.jpg");
+  background-color: #fff;
 }
 
 [tabindex="-1"]:focus {
@@ -395,7 +394,6 @@ h6, .h6 {
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
-  margin: 20px;
 }
 
 .display-1 {
@@ -3880,7 +3878,7 @@ input[type="button"].btn-block {
 
 .nav-tabs .nav-link.active,
 .nav-tabs .nav-item.show .nav-link {
-  color: #000000;
+  color: #495057;
   background-color: #fff;
   border-color: #dee2e6 #dee2e6 #fff;
 }
@@ -3973,8 +3971,9 @@ input[type="button"].btn-block {
 }
 
 .navbar-nav .nav-link {
-  padding: 0;
- 
+  padding-right: 0;
+  padding-left: 0;
+}
 
 .navbar-nav .dropdown-menu {
   position: static;
@@ -4244,11 +4243,7 @@ input[type="button"].btn-block {
 }
 
 .navbar-light .navbar-nav .nav-link {
-  padding: .25rem 0;
-  font-weight: 700;
-  color: #f23d3d;
-  background-color: transparent;
-  border-bottom: .25rem solid transparent;
+  color: rgba(0, 0, 0, 0.5);
 }
 
 .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {
@@ -4263,8 +4258,7 @@ input[type="button"].btn-block {
 .navbar-light .navbar-nav .active > .nav-link,
 .navbar-light .navbar-nav .nav-link.show,
 .navbar-light .navbar-nav .nav-link.active {
-  color: #53a2f2;
-  border-bottom-color: #f23d3d;
+  color: rgba(0, 0, 0, 0.9);
 }
 
 .navbar-light .navbar-toggler {
@@ -7693,7 +7687,6 @@ button.bg-dark:focus {
 .mb-auto,
 .my-auto {
   margin-bottom: auto !important;
-  background-color: #ffffff;
 }
 
 .ml-auto,
