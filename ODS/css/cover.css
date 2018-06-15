@@ -39,7 +39,7 @@ body {
 }
 
 .cover-container {
-  max-width: 94%;
+  max-width: 100%;
 }
 
 
@@ -111,8 +111,8 @@ body {
 }
    
  #logo {
-   height: 55px;
-    width: 201px;
+   height: 90px;
+    width: 220px;
 }
 
 /*
