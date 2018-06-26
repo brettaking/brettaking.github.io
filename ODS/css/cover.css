@@ -92,7 +92,6 @@ body {
  */
 .cover {
   padding: 0 1.5rem;
-  margin-bottom: 100px;
   background-image : url("../background.jpg");
 }
 .cover .btn-lg {
@@ -117,7 +116,6 @@ body {
 }
 
 .bottom-border {
-    margin-top: 40px;
     padding: 80px;
     display: flex;
     -webkit-box-align: center;
